@@ -4,6 +4,8 @@
 this is my 2nd ever project done (backend dev). it’s a command-line task manager built with python. you can add tasks, update them, mark them as done or in-progress, delete them, and list them. all tasks are saved in a json file.  
 
 ---
+## project url
+<https://roadmap.sh/projects/task-tracker>
 
 ## features  
 - add new tasks with unique ids  
@@ -21,28 +23,28 @@ this is my 2nd ever project done (backend dev). it’s a command-line task manag
 fr as i'm writing this i don't know how to do it, you know how to clone a repo?
 im gonna learn git properly soon. promise
 
-## also make sure python 3 is installed
+### also make sure python 3 is installed
 
-## add a task
+### add a task
 python task-cli.py add "buy groceries"
 
-## update a task
+### update a task
 python task-cli.py update 1 "buy groceries and cook dinner"
 
-## delete a task
+### delete a task
 python task-cli.py delete 1
 
-## mark task in progress or done
+### mark task in progress or done
 python task-cli.py mark-in-progress 1
 python task-cli.py mark-done 1
 
-## list tasks
+### list tasks
 python task-cli.py list
 python task-cli.py list todo
 python task-cli.py list in-progress
 python task-cli.py list done
 
-## data storage format
+### data storage format
 [
   {
     "id": 1,
@@ -54,7 +56,7 @@ python task-cli.py list done
 ]
 when you update the time is gonna be pesent.
 
-## end notes
+### end notes
 
 this is a practice project, so don’t expect all the bells and whistles. it’s just me learning the ropes — but it’s a solid step into backend logic and file persistence.
 
