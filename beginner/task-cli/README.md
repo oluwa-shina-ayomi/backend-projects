@@ -3,10 +3,10 @@
 it’s a command-line task manager built with python. you can add tasks, update them, mark them as done or in-progress, delete them, and list them. all tasks are saved in a json file.  
 
 ---
-## project url
+### project url
 <https://roadmap.sh/projects/task-tracker>
 
-## features  
+### features  
 - add new tasks with unique ids  
 - update task descriptions  
 - delete tasks  
@@ -17,12 +17,12 @@ it’s a command-line task manager built with python. you can add tasks, update 
 
 ---
 
-## installation  
+### installation  
 1. clone the repo  
 fr as i'm writing this i don't know how to do it, you know how to clone a repo?
 im gonna learn git properly soon. promise
 
-## notes
+### notes
 this is a practice project, so don’t expect all the bells and whistles. it’s just me learning the ropes — but it’s a solid step into backend logic and file persistence.
 
 things i picked up while building this:
@@ -33,7 +33,7 @@ how to keep code simple but functional
 the goal here wasn’t perfection, just progress.
 
 
-## usage
+### usage
  
 ```bash
 add a task 
