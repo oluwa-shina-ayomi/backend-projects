@@ -2,6 +2,10 @@
 
 a simple command line tool to fetch and display a user’s recent github activities in plain english.
 
+---
+### project url
+<https://roadmap.sh/projects/github-user-activity> 
+
 ### features
 - shows events like pushes, issues, pull requests, stars, forks, branches or tags created or deleted  
 - outputs human readable summaries like: 
@@ -13,10 +17,7 @@ starred kamranahmedse/developer-roadmap
 ### notes
 this was my second time working with an api
 i had to properly read and parse a json file returned by the api
-project from roadmap.sh link: 
-
-### project url 
-<https://roadmap.sh/projects/github-user-activity> 
+project from roadmap.sh
 
 ### usage
 ```bash
