@@ -8,5 +8,9 @@ they are organized into three categories:
 - advanced  
 
 each project has its own directory with a readme inside.  
-### for github-user-activity project, project url
-<https://roadmap.sh/projects/github-user-activity>
+### projects url
+#### beginner
+-task-tracker-cli: <https://roadmap.sh/projects/task-tracker-cli>
+-github-user-activity: <https://roadmap.sh/projects/github-user-activity>
+-expense-tracker: <https://roadmap.sh/projects/expense-tracker>
+
