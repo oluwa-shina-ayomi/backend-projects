@@ -24,7 +24,7 @@ the game includes different difficulty levels, tracks how long it took you to gu
 ### how to run
 
 ```bash
-git clone <repo-link>
+git clone <https://github.com/oluwa-shina-ayomi/backend-projects/tree/main/beginner/number-guessing-game>
 cd number-guessing-game
 python guess.py
 ```
