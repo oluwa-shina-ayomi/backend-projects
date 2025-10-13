@@ -16,3 +16,4 @@ each project has its own directory with a readme inside.
 
 -expense-tracker: <https://roadmap.sh/projects/expense-tracker>
 
+-number-guessing-game: <https://roadmap.sh/projects/number-guessing-game>
