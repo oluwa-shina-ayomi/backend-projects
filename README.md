@@ -24,4 +24,4 @@ each project has its own directory with a readme in it's directory.
 ### clone the repository
 
    ```bash
-   git clone <https://github.com/oluwa-shina-ayomi/backend-projects/tree/main/beginner>
+   git clone <https://github.com/oluwa-shina-ayomi/backend-projects/tree/main>
