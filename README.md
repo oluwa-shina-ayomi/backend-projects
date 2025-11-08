@@ -7,7 +7,8 @@ they are organized into three categories:
 - intermediate  
 - advanced  
 
-each project has its own directory with a readme inside.  
+each project has its own directory with a readme in it's directory. 
+
 ### projects url
 #### beginner
 -task-tracker-cli: <https://roadmap.sh/projects/task-tracker-cli>
@@ -17,3 +18,10 @@ each project has its own directory with a readme inside.
 -expense-tracker: <https://roadmap.sh/projects/expense-tracker>
 
 -number-guessing-game: <https://roadmap.sh/projects/number-guessing-game>
+
+-tmdb-cli-tool: <https://roadmap.sh/projects/tmdb-cli>
+
+### clone the repository
+
+   ```bash
+   git clone <https://github.com/oluwa-shina-ayomi/backend-projects/tree/main/beginner>

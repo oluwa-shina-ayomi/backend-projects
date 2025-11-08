@@ -23,7 +23,3 @@ project from roadmap.sh
 ```bash
 python github-activity.py <username>
 example: python github-activity.py torvalds
-
-requirements
-install dependencies with: pip install -r requirements.txt
-requirements.txt contains: requests

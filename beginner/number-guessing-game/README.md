@@ -15,22 +15,6 @@ the game includes different difficulty levels, tracks how long it took you to gu
 
 ---
 
-### requirements
-
-* python 3.7 or higher
-
----
-
-### how to run
-
-```bash
-git clone <repo-link>
-cd number-guessing-game
-python guess.py
-```
-
----
-
 ### example walkthrough
 
 ```bash
